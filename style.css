@@ -5,6 +5,7 @@
 }
 body{
     background-color: #0D0D0D;
+    font-family: Montserrat;
 }
 nav{
     display: flex;
@@ -34,6 +35,10 @@ a{
 .section1{
     display: flex;
     flex-direction: row;
+}
+.section2>img{
+    height: 600px;
+    width:600px;
 }
 .section3{
    margin-top: 130px;
@@ -99,14 +104,14 @@ li{
     flex-direction: row;
     color: white;
     position: absolute;
-    top: 750px;
+    top: 730px;
     left: 360px;
     
 }
 .section14{
     margin: 0px 10px;
     border: 1px solid #242B2E;
-    height: 230px;
+    height: 250px;
     width: 250px;
     background-color: #0D0D0D;
     padding: 0px 20px;
@@ -132,7 +137,7 @@ li{
 .section15{
     margin: 0px 10px;
     border: 1px solid red;
-    height: 230px;
+    height: 250px;
     width: 250px;
     background-color: red;
     padding: 0px 20px;
@@ -158,7 +163,7 @@ li{
 .section16{
     margin: 0px 10px;
     border: 1px solid black;
-    height: 230px;
+    height: 250px;
     width: 250px;
     background-color: #242B2E;
     padding: 0px 20px;
