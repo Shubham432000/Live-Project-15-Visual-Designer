@@ -3,8 +3,9 @@
 ## Hey there, I am Shubham
 
 #### I have build a template of HTML and CSS Project using my core CSS skill
+#### It took me 12 hours to do the project
 
-> My Live Deployed Website Link [Website](https://rad-cheesecake-952916.netlify.app)  
+> My Live Deployed Website Link [Website](https://stirring-marzipan-25ed42.netlify.app)  
 
 
 ![download (8)](https://user-images.githubusercontent.com/101961231/182021128-9f5c5edc-8b22-45e4-8d26-a853b6d7cae6.png)
@@ -19,3 +20,4 @@
 5. I Learn position absolute and relative  
 6. I Learn Text-Decoration Propety like letter-spacing,text-color,text-size  
 7. I Learn image property
+8. I Learn Z-index property.
